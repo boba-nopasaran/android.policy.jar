@@ -1,2 +1,2 @@
 # android.policy.jar
-/system/firmware/boba-nopasaran/android.policy.jar
+/system/firmware/android.policy.jar
