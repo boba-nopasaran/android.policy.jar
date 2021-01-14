@@ -254,7 +254,10 @@
     .line 6654
     .end local v1    # "theme":I
     :cond_bc
-    const/4 v1, 0x0
+#by boba 07.07.2020
+#dark theme for BootMessage
+#    const/4 v1, 0x0
+const v1, 0x10304a5
 
     .restart local v1    # "theme":I
     goto/16 :goto_1a
