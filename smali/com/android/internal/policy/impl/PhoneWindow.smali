@@ -5016,7 +5016,10 @@
 
     .line 3534
     :cond_b1
-    const-string v26, "ro.cta"
+#by boba 07.03.2021
+#persist.statusbar.show
+#    const-string v26, "ro.cta"
+const-string v26, "persist.statusbar.show"
 
     const/16 v27, 0x0
 
